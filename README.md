@@ -21,7 +21,7 @@ UnityGifPlayer allows GIFs to be played on the UGUI Image or any GameObject with
 - The GifPath should have a file extension.
 - Put your Gif files in the StreamingAssets folder.
 - The GifPath does not need to input the path of the StreamingAssets folder.
-- **If your Unity version is lower than 2017.4.22f1 LTS, download the source file instead of the download unitypackage.**
+- **If your Unity version is lower than 2017.4.22f1 LTS, download the source file instead of the unitypackage.**
 # Requirements
 - Unity 5.x or later
 # External DLL
